@@ -1,0 +1,94 @@
+头标记：
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <title></title>
+    </head>
+    <body>
+
+<!--
+<p></p>创建段落
+
+<h1></h1>标题h1～h6由大到小
+
+<strong>标签在我们的标记中传达了重要性、紧迫性或严肃性</strong>设置粗体
+
+<b>标记将注意力吸引到我们标记的某些部分，而不提供任何其他语义</b>设置粗体
+
+<em>标签表示强调并改变我们内容的含义。</em>斜体
+
+<i>标签传达来自周围内容的另一种情绪或声音。</i>斜体
+
+<mark></mark> - 已标记的文本
+
+<small></small> - 文本较小
+
+<del></del> - 删除的文本
+
+<ins></ins> - 插入的文本
+
+<sub></sub> - 下标
+
+<sup></sup> - 上标
+
+列表：
+无序列表：
+<ul>
+    <li>无序列表：</li>
+    <li>无序列表：</li>
+    <li>无序列表：</li>
+</ul>
+有序列表
+<ol>
+    <li>有序列表</li>
+    <li>有序列表</li>
+<ol>
+
+锚点：
+<a href="www.xxx.com"
+//还可以加入 target="_blank"//在新的标签页打开该链接，否则默认在原标签页打开。
+//还可以加入 rel="noopener" 值可防止打开的链接访问从中打开该链接的网页。
+//rel="noreferrer" 值可防止打开的链接知道哪个网页或资源具有指向它的链接
+>
+//通常 _blank与noreferrer配合使用
+
+</a>
+
+<img src=""
+alt = "" height="" width="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+
+
+
+
+
+
+
+
+
+    </body>
+</html>
+
+
+
